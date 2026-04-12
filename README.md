@@ -1,7 +1,7 @@
 tsv-web
 =======
 
-[![hugo-deploy](https://github.com/langchr86/tsv-web/actions/workflows/hugo-deploy.yml/badge.svg)](https://github.com/langchr86/tsv-web/actions/workflows/hugo-deploy.yml)
+[![hugo-deploy](https://github.com/tsv-mettauertal/tsv-web/actions/workflows/hugo-deploy.yml/badge.svg)](https://github.com/tsv-mettauertal/tsv-web/actions/workflows/hugo-deploy.yml)
 
 Das ist das [Hugo](https://gohugo.io)-Projekt für den Webauftritt des TSV Mettauertal.
 
