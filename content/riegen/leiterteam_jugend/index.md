@@ -11,8 +11,8 @@ Dann melde dich ganz einfach beim [Jugendverantwortlichen](/contact/tljugend).
 Leiterteam
 ------
 
-* Lars Keller (Leiter Jugendabteilung)
-{{< gallery >}} <img src="lars.jpg" class="grid-w33" /> {{< /gallery >}}
+* Kim Roth (Leiter Jugendabteilung)
+{{< gallery >}} <img src="kim.jpg" class="grid-w33" /> {{< /gallery >}}
 
 * Lara Oeschger (Riegenleitung Märi)
 {{< gallery >}} <img src="lara.jpg" class="grid-w33" /> {{< /gallery >}}
@@ -32,13 +32,12 @@ Leiterteam
 * Dominik Bredanger
 {{< gallery >}} <img src="dominik.jpg" class="grid-w33" /> {{< /gallery >}}
 
-* Jonas Honegger
-* Kim Roth
-{{< gallery >}} <img src="kim.jpg" class="grid-w33" /> {{< /gallery >}}
-
 * Kira Keller
 
 * Larissa Weiss
+
+* Lars Keller
+{{< gallery >}} <img src="lars.jpg" class="grid-w33" /> {{< /gallery >}}
 
 * Manuel Bredanger
 {{< gallery >}} <img src="manuel.jpg" class="grid-w33" /> {{< /gallery >}}
