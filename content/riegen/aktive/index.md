@@ -1,6 +1,6 @@
 ---
 title: 'Herren & Damen (Aktive)'
-originalImage: 2017-06-23-20-26-59.jpg
+originalImage: 2026-04-25-13-51-40.jpg
 ---
 
 > Alter: ab 16 Jahren

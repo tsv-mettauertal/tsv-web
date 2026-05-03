@@ -1,6 +1,6 @@
 ---
 title: 'Knaben- und Mädchenriege (Jugi & Märi)'
-originalImage: 2015-06-13-13-17-38.jpg
+originalImage: 2026-04-25-13-39-40.jpg
 ---
 
 > Alter: 3. - 9. Klasse
