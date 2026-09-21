@@ -20,8 +20,8 @@ Leiterteam
 * Patrick Schraner (Riegenleitung Jugi)
 {{< gallery >}} <img src="patrick.jpg" class="grid-w33" /> {{< /gallery >}}
 
-* Roman Frei (Riegenleitung Kids)
-{{< gallery >}} <img src="roman.jpg" class="grid-w33" /> {{< /gallery >}}
+* Zara Zumsteg (Riegenleitung Kids)
+{{< gallery >}} <img src="placeholder.png" class="grid-w33" /> {{< /gallery >}}
 
 * Colin Roth
 {{< gallery >}} <img src="colin.jpg" class="grid-w33" /> {{< /gallery >}}
@@ -52,5 +52,3 @@ Leiterteam
 
 * Severin Kramer
 {{< gallery >}} <img src="severin.jpg" class="grid-w33" /> {{< /gallery >}}
-
-* Zara Zumsteg
