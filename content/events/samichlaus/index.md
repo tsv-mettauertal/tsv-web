@@ -1,8 +1,8 @@
 ---
 title: 'Samichlaus'
 originalImage: 2015-12-12-15-59-19.jpg
-date: '2025-11-01'
-expiryDate: '2025-11-02'
+date: '2026-11-01'
+expiryDate: '2026-12-07'
 ---
 
 Der Chlaus naht...
